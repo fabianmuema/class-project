@@ -1,0 +1,15 @@
+
+m Web:TableHeaderHasIdOrScopeCheckÛ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï–ßóüÿÿÿÿ
+C	php:S1125œ"(Remove the literal "true" boolean value.(œşËäüÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(…ÖÚU
+m Web:TableHeaderHasIdOrScopeCheckÚ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ
+D	php:S1125…")Remove the literal "false" boolean value.(ÄÛ–şÿÿÿÿ
+DWeb:BoldAndItalicTagsCheck²"Replace this <i> tag by <em>.(¨Íÿ¯
+JWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ˆ‚üÿ
+h Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ŠşÓÜ
+NWeb:TableWithoutCaptionCheck×" Add a description to this table.(­ã’Òÿÿÿÿÿ
+>	php:S1125‘"(Remove the literal "true" boolean value.(å´À©
+2	php:S2010œ"Replace "or" with "||".(œşËäüÿÿÿÿ
+D	php:S1125£")Remove the literal "false" boolean value.(ÄÛ–şÿÿÿÿ
+2	php:S2010"Replace "and" with "&&".(úÓ‹äüÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÜ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨îª“ÿÿÿÿÿ

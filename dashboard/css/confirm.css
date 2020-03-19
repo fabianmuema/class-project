@@ -1,0 +1,10 @@
+.confirm-section h4 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.confirm-section {
+    text-align: left;
+    margin-left: 30px;
+}

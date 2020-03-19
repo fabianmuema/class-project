@@ -1,0 +1,14 @@
+
+JWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ˆ‚üÿ
+m Web:TableHeaderHasIdOrScopeCheckÜ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿ
+2	php:S2010"Replace "or" with "||".(œşËäüÿÿÿÿ
+h Web:TableHeaderHasIdOrScopeCheckß";Add either an 'id' or a 'scope' attribute to this <th> tag.(ŠşÓÜ
+C	php:S1125"(Remove the literal "true" boolean value.(œşËäüÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheckÛ";Add either an 'id' or a 'scope' attribute to this <th> tag.(…ÖÚU
+DWeb:BoldAndItalicTagsCheck³"Replace this <i> tag by <em>.(¨Íÿ¯
+m Web:TableHeaderHasIdOrScopeCheckŞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ÿ´§áıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï–ßóüÿÿÿÿ
+>	php:S1125’"(Remove the literal "true" boolean value.(å´À©
+D	php:S1125†")Remove the literal "false" boolean value.(ÄÛ–şÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÙ" Add a description to this table.(­ã’Òÿÿÿÿÿ
+D	php:S1125¤")Remove the literal "false" boolean value.(ÄÛ–şÿÿÿÿ

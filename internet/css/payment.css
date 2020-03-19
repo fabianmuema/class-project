@@ -1,0 +1,17 @@
+body {
+    overflow: hidden;
+}
+
+.pricing-area .single-plan.plan-popular {
+    -webkit-box-shadow: 0px 3px 13px 0px rgba(122, 122, 122, 1);
+    -moz-box-shadow: 0px 3px 13px 0px rgba(122, 122, 122, 1);
+    box-shadow: 0px 3px 13px 0px rgba(122, 122, 122, 1);
+    color: white;
+    background: #2992B7;
+    margin: 0 -20px;
+    padding: 45px 0;
+    margin: 10px 0;
+    position: relative;
+    z-index: 9;
+    margin-top: 60px;
+}
